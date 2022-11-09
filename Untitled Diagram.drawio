@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T23:35:43.582Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dZwW99eH-dtNEAhKAB8F" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T23:37:07.796Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eBEw7oxK_4MYHMggPNx3" version="20.5.3" type="github">
   <diagram id="jha10XObLrEjy8MLZTSR" name="Page-1">
     <mxGraphModel dx="825" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,6 +260,9 @@
         </mxCell>
         <mxCell id="Wfz5jlTh2cpY7burysgj-85" value="&lt;br&gt;Расход электро энергии&lt;br&gt;Расход горячей воды&lt;br&gt;Расход холодной воды" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="900" y="237.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wfz5jlTh2cpY7burysgj-86" value="Производство нечистот&lt;br&gt;Производство мусора" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="300" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
